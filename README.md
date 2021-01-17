@@ -21,8 +21,11 @@ app to listen on a specific port.
 The auth folder contains the configuration for registering and 
 logging users in, signing and verifying tokens.
 
-Follow the tutorial for this repository at https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52
+Follow the tutorial for this repository at 
+
+https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52
 
 
 brew services start mongodb-community@4.4
+
 brew services stop mongodb-community@4.4
